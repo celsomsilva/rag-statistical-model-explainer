@@ -50,7 +50,6 @@ The goal is not to replace statistical thinking, but to **support understanding,
 * **Interface (optional)**: Streamlit, Gradio, or React
 * **Deployment**: Docker, Hugging Face Spaces, or Render
 * **Statistical Models**:
-
   * R: `glm`, `lme4`
   * Python: `statsmodels`, `mixedlm`
 
@@ -136,16 +135,12 @@ Interpretation of AIC = 154.8:
 
 ## About the Author
 
-I’m a Data Science and Analytics specialist (USP postgraduate) and Computer Engineer (UERJ).
 
-My academic and professional background includes:
+This project was developed by an engineer and data scientist with a background in:
 
-* **Computation in general**
-* **Machine Learning**
-* **Hierarchical nonlinear mixed models (HLM3/HLM2)**, **Intraclass correlation (ICC)** and other topics about **HLM**
-* **Residual diagnostics and model validation**
-* **Deep Learning, LLMs, and Reinforcement Learning (ongoing specialization)**
-
+* Postgraduate degree in **Data Science and Analytics (USP)**
+* Bachelor's degree in **Computer Engineering (UERJ)**
+* Special interest in statistical models, interpretability, and applied AI
 ---
 
 
